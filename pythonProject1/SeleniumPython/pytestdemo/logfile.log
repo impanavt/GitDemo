@@ -1,0 +1,12 @@
+2024-02-22 13:32:34,793 :CRITICAL : pytestdemo.test_logging :Critical issue
+2024-02-22 13:36:31,158 :DEBUG : pytestdemo.test_logging :A debug statement is executed
+2024-02-22 13:36:31,158 :INFO : pytestdemo.test_logging :Information statement
+2024-02-22 13:36:31,158 :DEBUG : pytestdemo.test_logging :A debug statement is executed
+2024-02-22 13:36:31,158 :WARNING : pytestdemo.test_logging :Something is in warning mode
+2024-02-22 13:36:31,158 :ERROR : pytestdemo.test_logging :A Major error has happend
+2024-02-22 13:36:31,158 :CRITICAL : pytestdemo.test_logging :Critical issue
+2024-02-22 17:33:40,955 :DEBUG : pytestdemo.baseclass :A debug statement is executed
+2024-02-22 17:33:40,955 :INFO : pytestdemo.baseclass :Impaan
+2024-02-22 17:33:40,955 :INFO : pytestdemo.baseclass :You are Beautiful
+2024-03-04 23:28:51,468 :INFO : test_editProfile :Impaan
+2024-03-04 23:28:51,468 :INFO : test_editProfile :You are Beautiful

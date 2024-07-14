@@ -1,0 +1,10 @@
+def calculate_sum(dictionery):
+  if not dictionery:
+    return "Dictionery is empty"
+  else:
+     sum_values=sum(dictionery.values())
+     return sum_values
+
+my_dict={'a':5,'b':10,'c':15,'d':20}
+sum_values=calculate_sum(my_dict)
+print(sum_values)

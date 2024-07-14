@@ -1,0 +1,14 @@
+2024-03-12 20:03:09,687 :INFO : test_formSubmission :first name isRahul
+2024-03-12 20:03:10,776 :INFO : test_formSubmission :first name isImpana
+2024-03-12 20:03:10,776 :INFO : test_formSubmission :first name isImpana
+2024-03-12 20:21:10,322 :INFO : test_formSubmission :first name isRahul
+2024-03-12 20:21:11,440 :INFO : test_formSubmission :first name isImpana
+2024-03-12 20:21:11,440 :INFO : test_formSubmission :first name isImpana
+2024-03-12 20:38:10,868 :INFO : test_e2e :getting all  card details
+2024-03-12 20:38:10,946 :INFO : test_e2e :iphone X
+2024-03-12 20:38:10,968 :INFO : test_e2e :Samsung Note 8
+2024-03-12 20:38:10,991 :INFO : test_e2e :Nokia Edge
+2024-03-12 20:38:11,014 :INFO : test_e2e :Blackberry
+2024-03-12 20:38:11,442 :INFO : test_e2e :Entering country name as ind
+2024-03-12 20:38:17,356 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
