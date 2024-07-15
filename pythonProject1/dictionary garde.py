@@ -4,6 +4,7 @@ student_marks={'Jerry':92,
                 'Rahul':41,
                  'Aniket':99
                'impana':100
+               'pavan':125
 }
 student_grades={}
 for student in student_marks:
@@ -15,5 +16,5 @@ for student in student_marks:
     elif marks>70:
         student_grades[student]='B+'
     elif marks>50:
-        student_grades[student]='B'
+        student_grades[student]='C'
 print(student_grades)
